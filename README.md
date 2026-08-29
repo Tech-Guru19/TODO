@@ -1,26 +1,28 @@
-# ✅ TODO — Full-Stack Task Manager
+# TODO - Full-Stack Task Manager
 
-A **full-stack todo application** with a React client and an Express + MongoDB server — the classic task manager, done properly.
+## Overview
 
-## ✨ Features
+A full-stack todo application with a React client and an Express and MongoDB server, providing persistent task management.
 
-- ➕ **Add & manage todos**
-- 🗄️ **Persistent storage** (MongoDB)
-- ⚙️ **Separate Client & Server** folders
+## Key Features
 
-## 🧱 Tech Stack
+- **Task management:** Add and manage todos
+- **Persistent storage:** MongoDB-backed data
+- **Separated architecture:** Distinct Client and Server folders
+
+## Technology Stack
 
 - **Client:** React (Vite)
-- **Server:** Node.js + Express, Mongoose (MongoDB)
+- **Server:** Node.js with Express and Mongoose (MongoDB)
 
-## 🚀 Getting Started
+## Getting Started
 
 ```bash
 git clone https://github.com/Tech-Guru19/TODO.git
 cd TODO
-# see Client/ and Server/ package.json files for setup
+# Refer to the Client/ and Server/ package.json files for setup
 ```
 
-## 👩‍💻 Author
+## Author
 
-**[Obiasogu Esther Chizaram](https://github.com/Tech-Guru19)**
+[Obiasogu Esther Chizaram](https://github.com/Tech-Guru19)
